@@ -1,5 +1,3 @@
-This is an extension of Open Trip Planner, using real-time data to track traffic and get trip updates. It uses
- Itract servers.
+This is an extension of Open Trip Planner, using real-time data to track traffic and get trip updates. It uses Itract servers.
 This repo contains the original OTP application with additional classes and changes to support real-time.
-There are also libraries. The Commons-Pool folder contains a library used by Jedis. Commons-Pool has been modified
- so that Jedis is compatible with Android. Other libraries can probably be updated without risk.
+There are also libraries. The Commons-Pool folder contains a library used by Jedis. Commons-Pool has been modified so that Jedis is compatible with Android. Other libraries can probably be updated without risk.
